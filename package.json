@@ -1,0 +1,16 @@
+{
+  "name": "sobel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ogl": "^1.0.7",
+    "vite": "^5.3.4",
+    "vite-plugin-top-level-await": "^1.4.1"
+  }
+}
